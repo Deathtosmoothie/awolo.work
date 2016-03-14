@@ -1,0 +1,999 @@
+*
+ {
+     margin: 0px;
+}
+
+body {
+    
+ 
+    
+}
+
+/*-----Стили для всех заголовков всех разделов, кроме header-----*/
+
+.header2 {              /*Крупный заголовок*/
+    
+    font-family: DejaVu Sans Bold;
+    font-size: 24px;
+    text-align: center;
+    padding: 24px 11px 9px 11px;
+    
+    
+}
+
+.header3 {              /*Мелкий заголовок*/
+    
+    font-family: DejaVu Sans Condensed Bold;
+    font-size: 14px;
+    text-align: center;
+    
+    
+}
+
+
+
+/*------------------------------------*\
+              #CONTAINER
+\*------------------------------------*/
+
+
+.container {
+    
+    position: relative;
+    width: 923.56px;
+    margin: 0 auto;
+
+}
+
+
+/*------------------------------------*\
+              #HEADER
+\*------------------------------------*/
+
+
+.header {
+    
+    position: relative;
+    height: 467.88px;
+    background: #000000;
+   
+   
+}
+
+    .menu {
+        position: relative;
+        height: 64px;
+        background: #ffffff;
+        opacity: 0.7;
+        filter: alpha(opacity=70);
+
+
+    }
+
+        .menu li a {
+             text-decoration: none;
+             color: #000000;
+
+
+        }
+
+        .menu li {
+
+            font-family: DejaVu Sans Condensed Bold;
+            font-size: 11pt;
+            letter-spacing: 0px;
+            position: relative;
+            left: 193px;
+            margin: 25px 10px;
+            float: left;
+            list-style-type: none;
+        }
+
+        .logo {
+    position: absolute;
+    margin-left: 20px;
+        }
+
+
+    .header p {
+
+        font-family: DejaVu Sans Condensed Bold;
+        font-size: 30px;
+        color: #fefdf5;
+        position: relative;
+        top: 266px;
+        text-align: left;
+        line-height: 45px;
+        margin-left: 22px;
+        padding: 10px;
+    }
+
+
+
+    .leo {
+        -webkit-filter: hue-rotate(360deg) brightness(1.2);
+       /* -webkit-filter: hue-rotate(270deg); */ /*крутой цвет!*/
+        position: absolute;
+        left: 176px;
+        top: 0px;
+
+
+    }
+
+
+
+/*------------------------------------*\
+              #ADVANTAGES
+\*------------------------------------*/
+
+
+.advantages {
+    
+    
+    height: 516.47px;
+    background: #f0eeee;
+    position: relative;
+}
+
+
+    #clock_advantages {
+
+        position: relative;
+        top: 44px;
+        left: 108px;
+
+
+    }
+
+    #clock_text_advantages {
+
+        font-family: DejaVu Sans Condensed Bold;
+        font-size: 14px;
+        width: 90px;
+        position: relative;
+        left: 310px;
+        top: -55px
+    }
+
+    #informationBook_advantages {
+
+        position: relative;
+        left: 108px;
+        top: 42px;
+
+    }
+
+    #informationBook_text_advantages {
+
+        font-family: DejaVu Sans Condensed Bold;
+        font-size: 14px;
+        width: 90px;
+        position: relative;
+        left: 310px;
+        top: -55px
+    }
+
+    #cogwheel_advantages {
+
+        position: relative;
+        left: 525px;
+        top: -335px;
+
+    }
+
+    #cogwheel_text_advantages {
+
+        font-family: DejaVu Sans Condensed Bold;
+        font-size: 14px;
+        width: 90px;
+        position: relative;
+        left: 723px;
+        top: -436px
+
+    }
+
+    #safe_advantages {
+
+        position: relative;
+        top: -340px;
+        left: 525px;
+
+    }
+
+
+    #safe_text_advantages {
+
+         font-family: DejaVu Sans Condensed Bold;
+        font-size: 14px;
+        width: 90px;
+        position: relative;
+        left: 723px;
+        top: -436px
+
+    }
+
+
+/*------------------------------------*\
+              #TECHNOLOGIES
+\*------------------------------------*/
+
+
+
+.technologies {
+    height: 285.66px;
+    background: #cbcbcb;
+    position: relative;
+}
+
+    #PHP_techonologies{
+
+        position: relative;
+        top: 37px;
+        left: 42px;
+
+    }
+    #PHP_text_techologies {
+
+        font-family: DejaVu Sans Condensed Bold;
+        font-size: 14px;
+        width: 90px;
+        text-align: center;
+
+        position: relative;
+        left: 65px;
+        top: 47px;
+
+
+    }
+
+    #Html_Css_techonologies {
+
+        position: relative;
+        top: -108px;
+        left: 211px;
+
+    }
+    #Html_Css_text_techologies {
+
+        font-family: DejaVu Sans Condensed Bold;
+        font-size: 14px;
+        width: 90px;
+        text-align: center;
+        position: relative;
+        left: 242px;
+        top: -100px;
+
+
+    }
+
+    #Responsive_techonologies {
+
+        position: relative;
+        top: -260px;
+        left: 392px;
+
+    }
+    #Responsive_text_techologies {
+
+        font-family: DejaVu Sans Condensed Bold;
+        font-size: 14px;
+        width: 90px;
+        text-align: center;
+        position: relative;
+        left: 420px;
+        top: -246px;
+
+    }
+
+    #Mobile_techonologies {
+
+        position: relative;
+        top: -395px;
+        left: 617px;
+
+    }
+
+    #Mobile_text_techologies {
+
+        font-family: DejaVu Sans Condensed Bold;
+        font-size: 14px;
+        width: 100px;
+        text-align: center;
+        position: relative;
+        left: 605px;
+        top: -360px;
+
+    }
+    #SEO_techonologies {
+
+        position: relative;
+        top: -525px;
+        left: 736px;
+    }
+    #SEO_text_techologies {
+
+        font-family: DejaVu Sans Condensed Bold;
+        font-size: 14px;
+        width: 30px;
+        text-align: center;
+        position: relative;
+        left: 799px;
+        top: -495px;
+
+    }
+
+
+/*------------------------------------*\
+              #PORTFOLIO
+\*------------------------------------*/
+
+
+
+
+.portfolio {
+    height: 596px;
+    background: #f0eeee;
+    position: relative;
+}
+
+    .container_portfolio {
+
+        position: relative;
+        width: 840px;
+        height: 420px;
+
+
+    }
+
+        /*Цифры в названии указывают номер столбца 
+        слева (left_), либо справа (right_)*/
+
+        #left_up_1_portfolio { 
+
+            position: relative;
+            left: 45px;
+            top: 62px;
+
+        }
+
+        #left_down_1_portfolio {
+
+            position: relative;
+            left: -169px;
+            top: 272px;
+        }
+
+        #left_up_2_portfolio {
+
+            position: relative;
+            top: 62px;
+            left: -173px;
+
+        }
+        #left_down_2_portfolio {
+
+            position: relative;
+            top: 271.5px;
+            left: -387px;
+        }
+
+        #right_1_portfolio {
+
+            position: relative;
+            left: 465px;
+            top: -151.5px
+
+        }
+
+        #right_up_2_portfolio {
+
+            position: relative;
+            left: 461px;
+            top: -361px;
+
+        }
+
+        #right_down_2_portfolio {
+
+            position: relative;
+            left: 247px;
+            top: -151px
+
+        }
+
+
+/*------------------------------------*\
+                #FACTS
+\*------------------------------------*/
+
+
+
+
+.facts {
+    
+    height: 220px;
+    background: #aee0d2;
+    position: relative;
+    color: #363636;
+    
+}
+
+    #left_facts {
+
+        font-family: DejaVu Sans Bold;
+        font-size: 52.8px;
+        width: 284px;
+        height: 50px;
+        position: relative;
+        top: 60px;
+        left: 58px;
+    }
+
+
+            
+        #left_facts span {
+            
+            font-variant: small-caps;
+            font-size: 35px;
+
+        }
+
+
+
+    #left_text_facts {
+
+        font-family: DejaVu Sans Bold;
+        font-size: 14px;
+        width: 250px;
+        position: relative;
+        top: 85px;
+        left: 45px;
+
+    }
+
+    #middle_facts {
+
+        font-family: DejaVu Sans Bold;
+        font-size: 52.8px;
+        height: 50px;
+        position: relative;
+        text-align: center;
+        top: -6px;
+
+    }
+
+    #middle_text_facts {
+
+        font-family: DejaVu Sans Bold;
+        font-size: 14px;
+        position: relative;
+        top: 20px;
+        text-align: center;
+
+    }
+
+    #right_facts {
+
+        font-family: DejaVu Sans Bold;
+        font-size: 52.8px;
+        width: 290px;
+        height: 50px;
+        top: -70px;
+        position: relative;
+        left: 634px;
+
+    }
+
+        #right_facts span{
+
+            font-variant: small-caps;
+            font-size: 35px;
+
+        }
+
+    #right_text_facts {
+
+        font-family: DejaVu Sans Bold;
+        font-size: 14px;
+        position: relative;
+        top: -47px;
+        left: 702px;
+        width: 130px;
+
+    }
+
+
+/*------------------------------------*\
+              #HOW WE WORK
+\*------------------------------------*/
+
+
+
+
+.how_we_work {
+    height: 329px;
+    background: #ffffff;
+    position: relative;
+}
+
+
+    .project_definition_how-we-work img {
+
+        position: relative;
+        top: 41px;
+        left: 65px;
+
+
+    }
+
+    .project_definition_how-we-work figcaption{
+
+        font-family: DejaVu Sans Bold;
+        font-size: 14px;
+        width: 140px;
+        height: 50px;
+        text-align: center;
+        position: relative;
+        top: 52px;
+        left: 40px;
+    }
+
+    #arrow1 {
+
+        position: relative;
+        top: -80px;
+        left: 173px;
+    }
+
+    .design_how_we_work img {
+
+        position: relative;
+        top: -145px;
+        left: 220px;
+
+
+    }
+    .design_how_we_work figcaption {
+
+        font-family: DejaVu Sans Bold;
+        font-size: 14px;
+        width: 60px;
+        height: 20px;
+        text-align: center;
+        position: relative;
+        top: -125px;
+        left: 260px;
+
+    }
+
+    #arrow2 {
+        position: relative;
+        left: 387px;
+        top: -232px;
+    }
+
+
+    .project_execution_how_we_work img {
+
+        position: relative;
+        top: -300px;
+        left: 430px;
+
+
+    }
+    .project_execution_how_we_work figcaption {
+
+        font-family: DejaVu Sans Bold;
+        font-size: 14px;
+        width: 80px;
+        height: 30px;
+        text-align: center;
+        position: relative;
+        top: -285px;
+        left: 444px;
+
+    }
+
+    #arrow3 {
+
+        position: relative;
+        left: 571px;
+        top: -398px;
+    }
+
+    .testing_how_we_work img {
+
+        position: relative;
+        top: -450px;
+        left: 586px;
+
+
+    }
+    .testing_how_we_work figcaption {
+
+        font-family: DejaVu Sans Bold;
+        font-size: 14px;
+        width: 60px;
+        height: 20px;
+        text-align: center;
+        position: relative;
+        top: -436px;
+        left: 630px;
+
+    }
+
+    #arrow4 {
+
+        position: relative;
+        left: 720px;
+        top: -545px;
+
+    }
+
+    .ready_solution_how_we_work img {
+
+        position: relative;
+        top: -620px;
+        left: 768px;
+
+
+    }
+    .ready_solution_how_we_work figcaption {
+
+        font-family: DejaVu Sans Bold;
+        font-size: 14px;
+        width: 70px;
+        height: 33px;
+        text-align: center;
+        position: relative;
+        top: -615px;
+        left: 780px;
+
+    }
+
+
+
+/*------------------------------------*\
+              #PARTNERS
+\*------------------------------------*/
+
+
+
+
+.partners {
+    
+    height: 302px;
+    background: #f0eeee;
+    position: relative;
+    font-family: DejaVu Sans Bold;
+    font-size: 14px;
+    
+}
+
+
+
+    .client_one_partners img {
+
+        position: relative;
+        left: 45px;
+        top: 23px
+    }
+    .client_one_partners figcaption {
+
+         position: relative;
+         left: 60px;
+         text-align: center;
+         width: 100px;
+         top: 30px;
+         width: 100px;
+    }
+    .client_two_partners img {
+
+        position: relative;
+        top: -128px;
+        left: 219px;
+
+    }
+    .client_two_partners figcaption {
+
+          position: relative;
+          top: -121px;
+          left: 240px;
+          width: 100px;
+    }
+    .client_three_partners img {
+
+          position: relative;
+          top: -279px;
+          left: 393px;
+    }
+    .client_three_partners figcaption {
+
+          position: relative;
+          top: -272px;
+          left: 410px;
+          width: 100px;
+    }
+    .client_four_partners img {
+
+          position: relative;
+          top: -430px;
+          left: 567px;
+
+    }
+    .client_four_partners figcaption {
+
+         position: relative;
+         top: -424px;
+         left: 585px;
+         width: 100px;
+    }
+    .client_five_partners img {
+
+         position: relative;
+         top: -581px;
+         left: 741px;
+
+    }
+    .client_five_partners figcaption {
+
+          position: relative;
+          top: -574px;
+          left: 760px;
+          width: 100px;
+
+    }
+
+
+
+/*------------------------------------*\
+              #COMMENT
+\*------------------------------------*/
+
+
+
+.comment {
+    height: 192px;
+    background: #aee0d2;
+    position: relative;
+}
+
+    .comment img {
+
+        position: relative;
+        margin: 30px 0 0 138px;
+
+
+    }
+
+    #head_comment {
+
+        font-family: DejaVu Sans Bold;
+        font-size: 14px;
+        position: relative;
+        top: -115px;
+        left: 33px;
+
+    }
+
+    hr {
+
+    size: 3px;
+    width: 38px;
+    border-color: #00cccc;
+    margin: -110px 50px 35px 307px;
+
+    }
+
+    #main_comment {
+
+        font-family: DejaVu Serif;
+        font-size: 15px;
+        color: #515151;
+        position: relative;
+        top: -10px;
+        left: 300px;
+        display: block;
+        width: 580px;
+        line-height: 20px;
+
+    }
+
+
+
+/*------------------------------------*\
+              #OUR PRINCIPLES
+\*------------------------------------*/
+
+
+
+.our_principles {
+    
+    height: 377px;
+    background: #cbcbcb ;
+    position: relative;
+}
+
+    .our_principles img[src^="img/OurPrinciples/Tiger.png"] {
+
+        position: absolute;
+
+    }
+
+    .our_principles li {
+
+        font-family: DejaVu Sans Condensed Bold;
+        font-size: 14px;
+        list-style: none;
+        text-align: left;
+
+        position: relative;
+        top: 62px;
+        padding-bottom: 38px;
+        margin: 0 55px 0 46px;
+
+
+    }
+
+    .our_principles img[src^="img/OurPrinciples/check"] {
+
+        position: relative;
+        padding-bottom: 30px;
+
+
+
+    }
+
+    #check_our_principles {
+
+        width: 27px;
+        position: relative;
+        left: 42px;
+        top: -114px
+
+    }
+
+
+
+/*------------------------------------*\
+              #OUR TEAM
+\*------------------------------------*/
+
+
+
+.our_team {
+    height: 409px;
+    background: white;
+    position: relative;
+    overflow: hidden;
+}
+
+
+    .fig_up_our_team {  /*Стиль верхней подписи*/
+
+        font-family: DejaVu Sans Condensed Bold;
+        font-size: 14px;
+        color: #363636;
+        position: relative;
+        text-align: center;
+        padding-top: 18px
+
+    }
+
+    .fig_down_our_team {  /*Стиль нижней подписи*/
+
+        font-family: DejaVu Sans Bold;
+        font-size: 10px;
+        color: #989898;
+        text-align: center;
+        padding-top: 3px;
+
+    }
+
+    .one_our_team {
+
+        position: relative;
+        left: 84px;
+        top: 30px;
+        width: 198px;
+
+    }
+
+    .two_our_team {
+
+        position: relative;
+        left: 367px;
+        top: -257px;
+        width: 198px;
+
+    }
+
+    .three_our_team {
+
+        position: relative;
+        left: 650px;
+        top: -546px;
+        width: 198px;
+
+    }
+
+
+
+/*------------------------------------*\
+              #FOOTER
+\*------------------------------------*/
+
+
+
+
+.footer {
+    height: 143px;
+    background: #aee0d2;
+    position: relative;
+    color: white;
+}
+
+    #head_footer {
+
+        font-family: DejaVu Sans Bold;
+        font-size: 24px;
+        position: relative;
+        left: 42px;
+        top: 26px;
+
+    }
+
+    #main_footer {
+
+        font-family: DejaVu Sans Condensed;
+        font-size: 14px;
+        position: relative;
+        left: 42px;
+        top: 27px;
+    }
+
+    #one_bottom_footer a{
+
+        font-family: DejaVu Sans Condensed;
+        font-size: 14px;
+        text-decoration: none;
+        color: white;
+        position: relative;
+        left: 657px;
+        top: 40px;
+        margin-right: 30px; 
+        display: block;
+        width: 70px
+
+    }
+
+    #two_bottom_footer a{
+
+        font-family: DejaVu Sans Condensed;
+        font-size: 14px;
+        text-decoration: none;
+        color: white;
+        position: relative;
+        left: 742px;
+        top: 24px;
+        margin-right: 30px; 
+        display: block;
+        width: 70px
+
+
+    }
+
+    #three_bottom_footer a{
+
+        font-family: DejaVu Sans Condensed;
+        font-size: 14px;
+        text-decoration: none;
+        color: white;
+        position: relative;
+        left: 820px;
+        top: 8px;
+        margin-right: 30px; 
+        display: block;
+        width: 70px
+
+    }
